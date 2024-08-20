@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:/Users/nikam/anaconda3/envs/py37_env\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

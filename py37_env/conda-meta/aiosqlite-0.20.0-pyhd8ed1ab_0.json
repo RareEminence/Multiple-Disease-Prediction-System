@@ -1,0 +1,231 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6",
+    "typing-extensions >=3.7.2"
+  ],
+  "extracted_package_dir": "C:\\Users\\nikam\\anaconda3\\pkgs\\aiosqlite-0.20.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/aiosqlite-0.20.0.dist-info/INSTALLER",
+    "Lib/site-packages/aiosqlite-0.20.0.dist-info/LICENSE",
+    "Lib/site-packages/aiosqlite-0.20.0.dist-info/METADATA",
+    "Lib/site-packages/aiosqlite-0.20.0.dist-info/RECORD",
+    "Lib/site-packages/aiosqlite-0.20.0.dist-info/REQUESTED",
+    "Lib/site-packages/aiosqlite-0.20.0.dist-info/WHEEL",
+    "Lib/site-packages/aiosqlite-0.20.0.dist-info/direct_url.json",
+    "Lib/site-packages/aiosqlite/__init__.py",
+    "Lib/site-packages/aiosqlite/__version__.py",
+    "Lib/site-packages/aiosqlite/context.py",
+    "Lib/site-packages/aiosqlite/core.py",
+    "Lib/site-packages/aiosqlite/cursor.py",
+    "Lib/site-packages/aiosqlite/py.typed",
+    "Lib/site-packages/aiosqlite/tests/__init__.py",
+    "Lib/site-packages/aiosqlite/tests/__main__.py",
+    "Lib/site-packages/aiosqlite/tests/helpers.py",
+    "Lib/site-packages/aiosqlite/tests/perf.py",
+    "Lib/site-packages/aiosqlite/tests/smoke.py",
+    ".nonadmin",
+    "Lib/site-packages/aiosqlite/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/aiosqlite/__pycache__/__version__.cpython-37.pyc",
+    "Lib/site-packages/aiosqlite/__pycache__/context.cpython-37.pyc",
+    "Lib/site-packages/aiosqlite/__pycache__/core.cpython-37.pyc",
+    "Lib/site-packages/aiosqlite/__pycache__/cursor.cpython-37.pyc",
+    "Lib/site-packages/aiosqlite/tests/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/aiosqlite/tests/__pycache__/__main__.cpython-37.pyc",
+    "Lib/site-packages/aiosqlite/tests/__pycache__/helpers.cpython-37.pyc",
+    "Lib/site-packages/aiosqlite/tests/__pycache__/perf.cpython-37.pyc",
+    "Lib/site-packages/aiosqlite/tests/__pycache__/smoke.cpython-37.pyc"
+  ],
+  "fn": "aiosqlite-0.20.0-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\nikam\\anaconda3\\pkgs\\aiosqlite-0.20.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "4904ac8e78fa697150e874e4b2dbf6e5",
+  "name": "aiosqlite",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\nikam\\anaconda3\\pkgs\\aiosqlite-0.20.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/aiosqlite-0.20.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/aiosqlite-0.20.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "ab0c171dc3ef8bf325a84bb77d855421f2611335ddf6e08816b2922c4edc0f76",
+        "sha256_in_prefix": "ab0c171dc3ef8bf325a84bb77d855421f2611335ddf6e08816b2922c4edc0f76",
+        "size_in_bytes": 1071
+      },
+      {
+        "_path": "site-packages/aiosqlite-0.20.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "11ce3180795ea6e1d0849f0b760ec492f795d808fcc1d73c3fa81a5337cd536f",
+        "sha256_in_prefix": "11ce3180795ea6e1d0849f0b760ec492f795d808fcc1d73c3fa81a5337cd536f",
+        "size_in_bytes": 4275
+      },
+      {
+        "_path": "site-packages/aiosqlite-0.20.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a992f57fa995750ebe7c40b39f4ee0e5645724089c5abee5b983d1ed2d235794",
+        "sha256_in_prefix": "a992f57fa995750ebe7c40b39f4ee0e5645724089c5abee5b983d1ed2d235794",
+        "size_in_bytes": 1986
+      },
+      {
+        "_path": "site-packages/aiosqlite-0.20.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/aiosqlite-0.20.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1196c6921ec87b83e865f450f08d19b8ff5592537f4ef719e83484e546abe33e",
+        "sha256_in_prefix": "1196c6921ec87b83e865f450f08d19b8ff5592537f4ef719e83484e546abe33e",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "site-packages/aiosqlite-0.20.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a712a865981160672eea9db595dbfc7d1a9bc603b274ade5ccfe61e9e0c82895",
+        "sha256_in_prefix": "a712a865981160672eea9db595dbfc7d1a9bc603b274ade5ccfe61e9e0c82895",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/aiosqlite/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "24c21f51351044f933dc8acd169dcc2b7b8831f1a431ab94299dd34b5be7aaa9",
+        "sha256_in_prefix": "24c21f51351044f933dc8acd169dcc2b7b8831f1a431ab94299dd34b5be7aaa9",
+        "size_in_bytes": 893
+      },
+      {
+        "_path": "site-packages/aiosqlite/__version__.py",
+        "path_type": "hardlink",
+        "sha256": "e9e79ed975cc5fee81e1a2030cd498f901eff60be97fbbe14936d84f20de6cd5",
+        "sha256_in_prefix": "e9e79ed975cc5fee81e1a2030cd498f901eff60be97fbbe14936d84f20de6cd5",
+        "size_in_bytes": 157
+      },
+      {
+        "_path": "site-packages/aiosqlite/context.py",
+        "path_type": "hardlink",
+        "sha256": "77bf0daafad4823dd440515bc2924cd12d538cdb4927956943bee9ab78f73889",
+        "sha256_in_prefix": "77bf0daafad4823dd440515bc2924cd12d538cdb4927956943bee9ab78f73889",
+        "size_in_bytes": 1372
+      },
+      {
+        "_path": "site-packages/aiosqlite/core.py",
+        "path_type": "hardlink",
+        "sha256": "dfbc0e4415ed278c610dda8e56faa9a4334ce1778d603e911ec9559333020582",
+        "sha256_in_prefix": "dfbc0e4415ed278c610dda8e56faa9a4334ce1778d603e911ec9559333020582",
+        "size_in_bytes": 12226
+      },
+      {
+        "_path": "site-packages/aiosqlite/cursor.py",
+        "path_type": "hardlink",
+        "sha256": "5f37476d40b2efa3ade77af97001ef7a953a2f25f1352351d8e87d2f56b833ab",
+        "sha256_in_prefix": "5f37476d40b2efa3ade77af97001ef7a953a2f25f1352351d8e87d2f56b833ab",
+        "size_in_bytes": 3504
+      },
+      {
+        "_path": "site-packages/aiosqlite/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/aiosqlite/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9ca2c1851f122f1d9d930e142f4e7640a0fb1330bd72d6a07d227d329b033eb6",
+        "sha256_in_prefix": "9ca2c1851f122f1d9d930e142f4e7640a0fb1330bd72d6a07d227d329b033eb6",
+        "size_in_bytes": 95
+      },
+      {
+        "_path": "site-packages/aiosqlite/tests/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "577b07db5a4e360d32dbe58deeb91fbe08dff333be952d7017220dab98537690",
+        "sha256_in_prefix": "577b07db5a4e360d32dbe58deeb91fbe08dff333be952d7017220dab98537690",
+        "size_in_bytes": 167
+      },
+      {
+        "_path": "site-packages/aiosqlite/tests/helpers.py",
+        "path_type": "hardlink",
+        "sha256": "821999adffe711f8e4b91a599021fd3e68366670b5f5cd8b7a2abd9d7a955ff8",
+        "sha256_in_prefix": "821999adffe711f8e4b91a599021fd3e68366670b5f5cd8b7a2abd9d7a955ff8",
+        "size_in_bytes": 727
+      },
+      {
+        "_path": "site-packages/aiosqlite/tests/perf.py",
+        "path_type": "hardlink",
+        "sha256": "a4108e2a44cb8748f8733ed959edd6371b1599d293280c3455637f2be6304667",
+        "sha256_in_prefix": "a4108e2a44cb8748f8733ed959edd6371b1599d293280c3455637f2be6304667",
+        "size_in_bytes": 6593
+      },
+      {
+        "_path": "site-packages/aiosqlite/tests/smoke.py",
+        "path_type": "hardlink",
+        "sha256": "f41fba5a8e2b2cff6b7ddc91c46fd063624026dabb7c34c9a13f208de0a45a2e",
+        "sha256_in_prefix": "f41fba5a8e2b2cff6b7ddc91c46fd063624026dabb7c34c9a13f208de0a45a2e",
+        "size_in_bytes": 16580
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/__pycache__/__version__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/__pycache__/context.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/__pycache__/core.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/__pycache__/cursor.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/tests/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/tests/__pycache__/__main__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/tests/__pycache__/helpers.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/tests/__pycache__/perf.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/aiosqlite/tests/__pycache__/smoke.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "93f6e9dd42c611f1d64efce431844ebe10cb785399de1872bc266067386f2e20",
+  "size": 18939,
+  "subdir": "noarch",
+  "timestamp": 1715928468000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/aiosqlite-0.20.0-pyhd8ed1ab_0.conda",
+  "version": "0.20.0"
+}

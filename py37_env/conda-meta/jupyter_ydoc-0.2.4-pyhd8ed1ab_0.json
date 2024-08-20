@@ -1,0 +1,154 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "importlib_metadata >=3.6",
+    "python >=3.7",
+    "y-py >=0.5.3,<0.6.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\nikam\\anaconda3\\pkgs\\jupyter_ydoc-0.2.4-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/jupyter_ydoc-0.2.4.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter_ydoc-0.2.4.dist-info/METADATA",
+    "Lib/site-packages/jupyter_ydoc-0.2.4.dist-info/RECORD",
+    "Lib/site-packages/jupyter_ydoc-0.2.4.dist-info/REQUESTED",
+    "Lib/site-packages/jupyter_ydoc-0.2.4.dist-info/WHEEL",
+    "Lib/site-packages/jupyter_ydoc-0.2.4.dist-info/direct_url.json",
+    "Lib/site-packages/jupyter_ydoc-0.2.4.dist-info/entry_points.txt",
+    "Lib/site-packages/jupyter_ydoc-0.2.4.dist-info/licenses/LICENSE",
+    "Lib/site-packages/jupyter_ydoc/__init__.py",
+    "Lib/site-packages/jupyter_ydoc/_version.py",
+    "Lib/site-packages/jupyter_ydoc/utils.py",
+    "Lib/site-packages/jupyter_ydoc/ydoc.py",
+    ".nonadmin",
+    "Lib/site-packages/jupyter_ydoc/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/jupyter_ydoc/__pycache__/_version.cpython-37.pyc",
+    "Lib/site-packages/jupyter_ydoc/__pycache__/utils.cpython-37.pyc",
+    "Lib/site-packages/jupyter_ydoc/__pycache__/ydoc.cpython-37.pyc"
+  ],
+  "fn": "jupyter_ydoc-0.2.4-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\nikam\\anaconda3\\pkgs\\jupyter_ydoc-0.2.4-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "be5d4633c1cc40343ed417153a184006",
+  "name": "jupyter_ydoc",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\nikam\\anaconda3\\pkgs\\jupyter_ydoc-0.2.4-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/jupyter_ydoc-0.2.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc-0.2.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1012daf7d3e7b2998cc5805e398bf3923edbd66a9995fe248fbd54418d5a9c73",
+        "sha256_in_prefix": "1012daf7d3e7b2998cc5805e398bf3923edbd66a9995fe248fbd54418d5a9c73",
+        "size_in_bytes": 2209
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc-0.2.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "440575b207154b77c61e498324c8521b79b2af64dc6549380b46db4450534f54",
+        "sha256_in_prefix": "440575b207154b77c61e498324c8521b79b2af64dc6549380b46db4450534f54",
+        "size_in_bytes": 1238
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc-0.2.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc-0.2.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cb56d20aae2be62e27326a5779424caacde2a4abe464e6eb2174af2479b5a822",
+        "sha256_in_prefix": "cb56d20aae2be62e27326a5779424caacde2a4abe464e6eb2174af2479b5a822",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc-0.2.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "ae743a16c3575bc47f114b8b9d7d6017654ae4f7ad9d2d660e2e40ffc92bce2e",
+        "sha256_in_prefix": "ae743a16c3575bc47f114b8b9d7d6017654ae4f7ad9d2d660e2e40ffc92bce2e",
+        "size_in_bytes": 113
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc-0.2.4.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "d6f800e3f075f405a91531fd3c27f1b3c6f2a10a471ee14725a6e3d55a7eb462",
+        "sha256_in_prefix": "d6f800e3f075f405a91531fd3c27f1b3c6f2a10a471ee14725a6e3d55a7eb462",
+        "size_in_bytes": 85
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc-0.2.4.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "470f40a8f93bdde6d14b08b25ea789b1a6fa43f5331cf4a6d294f2bdfde67184",
+        "sha256_in_prefix": "470f40a8f93bdde6d14b08b25ea789b1a6fa43f5331cf4a6d294f2bdfde67184",
+        "size_in_bytes": 1522
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9299b94604151169097980443a2fe11f03106118a899312c1bf54a2aaccbe19c",
+        "sha256_in_prefix": "9299b94604151169097980443a2fe11f03106118a899312c1bf54a2aaccbe19c",
+        "size_in_bytes": 426
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc/_version.py",
+        "path_type": "hardlink",
+        "sha256": "591dcab15fab536f5a23ee9fb2a066b5fc24f4b3c268d6935f26c5a48979dc8b",
+        "sha256_in_prefix": "591dcab15fab536f5a23ee9fb2a066b5fc24f4b3c268d6935f26c5a48979dc8b",
+        "size_in_bytes": 171
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc/utils.py",
+        "path_type": "hardlink",
+        "sha256": "2a282891a0d9c3f47456ef6cf78c6af34ab579f6ec94c27b10c408e01db09f51",
+        "sha256_in_prefix": "2a282891a0d9c3f47456ef6cf78c6af34ab579f6ec94c27b10c408e01db09f51",
+        "size_in_bytes": 781
+      },
+      {
+        "_path": "site-packages/jupyter_ydoc/ydoc.py",
+        "path_type": "hardlink",
+        "sha256": "7d4e86c8030150e1cee2690a27d97251fa77209db694711e24650bb99c09697c",
+        "sha256_in_prefix": "7d4e86c8030150e1cee2690a27d97251fa77209db694711e24650bb99c09697c",
+        "size_in_bytes": 6828
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_ydoc/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_ydoc/__pycache__/_version.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_ydoc/__pycache__/utils.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_ydoc/__pycache__/ydoc.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "654b8e9292a8638235eb3ba523e27e2e79642b30c65bb9036f2c319ae1f06348",
+  "size": 79522,
+  "subdir": "noarch",
+  "timestamp": 1685536031000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/jupyter_ydoc-0.2.4-pyhd8ed1ab_0.conda",
+  "version": "0.2.4"
+}

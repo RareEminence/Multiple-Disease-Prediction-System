@@ -1,0 +1,125 @@
+{
+  "build": "py37had2a638_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0",
+    "python_abi 3.7.* *_cp37m",
+    "vc >=14.1,<15",
+    "vs2015_runtime >=14.16.27033"
+  ],
+  "extracted_package_dir": "C:\\Users\\nikam\\anaconda3\\pkgs\\y-py-0.5.4-py37had2a638_0",
+  "files": [
+    "Lib/site-packages/y_py-0.5.4.dist-info/INSTALLER",
+    "Lib/site-packages/y_py-0.5.4.dist-info/METADATA",
+    "Lib/site-packages/y_py-0.5.4.dist-info/RECORD",
+    "Lib/site-packages/y_py-0.5.4.dist-info/REQUESTED",
+    "Lib/site-packages/y_py-0.5.4.dist-info/WHEEL",
+    "Lib/site-packages/y_py-0.5.4.dist-info/direct_url.json",
+    "Lib/site-packages/y_py/__init__.py",
+    "Lib/site-packages/y_py/__init__.pyi",
+    "Lib/site-packages/y_py/__pycache__/__init__.cpython-37.pyc",
+    "Lib/site-packages/y_py/py.typed",
+    "Lib/site-packages/y_py/y_py.pyd",
+    ".nonadmin"
+  ],
+  "fn": "y-py-0.5.4-py37had2a638_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\nikam\\anaconda3\\pkgs\\y-py-0.5.4-py37had2a638_0",
+    "type": 1
+  },
+  "md5": "2e03bf714e345e70c47a358f08712818",
+  "name": "y-py",
+  "package_tarball_full_path": "C:\\Users\\nikam\\anaconda3\\pkgs\\y-py-0.5.4-py37had2a638_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/y_py-0.5.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/y_py-0.5.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f623da655b0bf85d7dbd8778d82ecb24e2b33e16abf87530692d38f937aa60f8",
+        "sha256_in_prefix": "f623da655b0bf85d7dbd8778d82ecb24e2b33e16abf87530692d38f937aa60f8",
+        "size_in_bytes": 2110
+      },
+      {
+        "_path": "Lib/site-packages/y_py-0.5.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "cd6c3f94194c306ef0e3e3baa5ffb3c5c0a3a086401f1ff844b9bcd217d144a3",
+        "sha256_in_prefix": "cd6c3f94194c306ef0e3e3baa5ffb3c5c0a3a086401f1ff844b9bcd217d144a3",
+        "size_in_bytes": 796
+      },
+      {
+        "_path": "Lib/site-packages/y_py-0.5.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/y_py-0.5.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "9b919b779eea2006487f8a2c8e2220d553584917764c76a3911ca84e71697c97",
+        "sha256_in_prefix": "9b919b779eea2006487f8a2c8e2220d553584917764c76a3911ca84e71697c97",
+        "size_in_bytes": 95
+      },
+      {
+        "_path": "Lib/site-packages/y_py-0.5.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "44ceb34e5450d26ecab5e4f49c480620738458b103b77a4c43476afb6f4742e1",
+        "sha256_in_prefix": "44ceb34e5450d26ecab5e4f49c480620738458b103b77a4c43476afb6f4742e1",
+        "size_in_bytes": 65
+      },
+      {
+        "_path": "Lib/site-packages/y_py/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "871927e8c619f2a9eba5b011a10c4e57c885f873eac9024578cafd9f0f57e71c",
+        "sha256_in_prefix": "871927e8c619f2a9eba5b011a10c4e57c885f873eac9024578cafd9f0f57e71c",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "Lib/site-packages/y_py/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "52ec8f2dbc60a201087911d629997c0cc9ad185152ed288817ac1594785a1bab",
+        "sha256_in_prefix": "52ec8f2dbc60a201087911d629997c0cc9ad185152ed288817ac1594785a1bab",
+        "size_in_bytes": 40232
+      },
+      {
+        "_path": "Lib/site-packages/y_py/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "4f5879a5f9e0c89e8a4557a74f6e7075ab4602320c00e76fc422bb9b845b2509",
+        "sha256_in_prefix": "4f5879a5f9e0c89e8a4557a74f6e7075ab4602320c00e76fc422bb9b845b2509",
+        "size_in_bytes": 202
+      },
+      {
+        "_path": "Lib/site-packages/y_py/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/y_py/y_py.pyd",
+        "path_type": "hardlink",
+        "sha256": "b471f07ac2814a3b6ce7e13cd2b03bc5d2d22e9976f9726f644c38a400c01ab9",
+        "sha256_in_prefix": "b471f07ac2814a3b6ce7e13cd2b03bc5d2d22e9976f9726f644c38a400c01ab9",
+        "size_in_bytes": 1499136
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6e880279951614553a3eb467a9a432318d80c9272c6403e5a888a65d0b372c8f",
+  "size": 561253,
+  "subdir": "win-64",
+  "timestamp": 1658954082000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/y-py-0.5.4-py37had2a638_0.tar.bz2",
+  "version": "0.5.4"
+}
